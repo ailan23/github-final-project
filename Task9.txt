@@ -1,0 +1,3 @@
+# Correción palabra "error"
+
+Esto es una correción de un "error" tipográfico
